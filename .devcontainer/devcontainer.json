@@ -1,0 +1,14 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "148301634/fmt": {
+                    "permissions": "write-all"
+                },
+                "148301634/googletest": {
+                    "permissions": "write-all"
+                }
+            }
+        }
+    }
+}
